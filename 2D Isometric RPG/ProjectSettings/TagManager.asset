@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Collision
+    uniqueID: 1404190445
+    locked: 0
+  - name: Background
+    uniqueID: 2731624281
+    locked: 0
+  - name: Foreground
+    uniqueID: 3213814087
+    locked: 0
